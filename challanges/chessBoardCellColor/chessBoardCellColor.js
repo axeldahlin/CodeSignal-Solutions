@@ -17,10 +17,7 @@ function remainderOfPosition(cell) {
 
   const remainder = (first + second) % 2;
 
- 
 
-
-  console.log(cell, {first}, {second}, remainder);
 
   return remainder;
 
